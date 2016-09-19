@@ -4,3 +4,7 @@
 ---
 
 Some new changes
+
+---
+
+This is another change for my project
